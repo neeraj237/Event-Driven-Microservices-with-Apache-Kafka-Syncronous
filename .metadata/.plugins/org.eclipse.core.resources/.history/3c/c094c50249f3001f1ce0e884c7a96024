@@ -1,0 +1,19 @@
+package com.appsdeveloperblog.ws.products.service;
+
+import java.math.BigDecimal;
+
+public class ProductCreatedEvent {
+	
+	private String productId;
+	private String title;
+	private BigDecimal price;
+	private Integer quantity;
+	public ProductCreatedEvent(String productId, String title, BigDecimal price, Integer quantity) {
+		super();
+		this.productId = productId;
+		this.title = title;
+		this.price = price;
+		this.quantity = quantity;
+	}	
+
+}

@@ -1,0 +1,10 @@
+package com.appsdeveloperblog.ws.products.rest;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/products") //http://localhost:<port>
+public class ProductController {
+
+}
