@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-#Tue Feb 25 15:36:58 IST 2025
+#Tue Feb 25 18:35:47 IST 2025
 host=Neerajs-MacBook-Pro.local
-process-id=79755
-=======
-#Tue Feb 25 14:55:02 IST 2025
-host=Neerajs-MacBook-Pro.local
-process-id=78516
->>>>>>> 11bcb56 (Syncronous message send by produces to kafka topic)
+process-id=85248
 user=neerajgupta

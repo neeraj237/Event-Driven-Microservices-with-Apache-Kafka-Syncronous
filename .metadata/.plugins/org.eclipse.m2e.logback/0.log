@@ -1493,3 +1493,52 @@
 2025-02-25 15:29:15,732 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2025-02-25 15:29:15,734 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
 >>>>>>> 11bcb56 (Syncronous message send by produces to kafka topic)
+2025-02-25 18:35:51,735 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-25 18:35:54,770 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 18:35:54,798 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 18:35:54,807 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 18:36:24,613 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 18:36:24,618 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 18:36:24,620 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 19:19:46,433 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 19:19:46,450 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 19:19:46,452 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:30:10,773 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:30:10,841 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:30:10,848 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:44:16,516 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:44:16,532 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:44:16,534 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:44:29,897 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:44:29,906 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:44:29,908 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:47:10,316 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:47:10,321 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:47:10,323 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:48:21,296 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:48:21,302 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:48:21,304 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:49:20,370 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:49:20,374 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:49:20,377 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:50:15,106 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:50:15,110 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:50:15,111 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:51:20,077 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:51:20,080 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:51:20,082 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:51:22,832 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:51:22,835 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:51:22,837 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:55:29,392 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:55:29,396 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:55:29,398 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 22:59:43,195 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 22:59:43,199 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 22:59:43,202 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 23:03:59,814 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 23:03:59,819 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 23:03:59,820 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources
+2025-02-25 23:04:25,939 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-25 23:04:25,944 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-25 23:04:25,947 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/neerajgupta/Event-Driven-Microservices-with-Apache-Kafka-Syncronous/ProductsMicroservice/src/test/resources

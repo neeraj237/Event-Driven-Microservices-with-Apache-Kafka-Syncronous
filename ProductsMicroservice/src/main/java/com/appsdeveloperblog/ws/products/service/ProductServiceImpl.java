@@ -29,7 +29,7 @@ public class ProductServiceImpl implements ProductService {
 		
 		LOGGER.info("Before publishing a ProductCreatedEvent");
 		
-		SendResult<String, ProductCreatedEvent> result = kafkaTemplate.send("product-created-events-topic"
+		SendResult<String, ProductCreatedEvent> result = kafkaTemplate.send("topic2"
 				,productId, productCreatedEvent).get();
 		
 		LOGGER.info("Partition: " + result.getRecordMetadata().partition());
