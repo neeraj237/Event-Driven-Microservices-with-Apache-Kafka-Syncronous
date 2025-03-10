@@ -13,7 +13,8 @@ import org.springframework.kafka.core.DefaultKafkaProducerFactory;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.core.ProducerFactory;
 
-import com.appsdeveloperblog.ws.products.service.ProductCreatedEvent;
+import com.appsdeveloperblog.ws.core.ProductCreatedEvent;
+
 
 @Configuration
 public class KafkaConfig {
@@ -54,12 +55,12 @@ public class KafkaConfig {
 	}
 	
 	@Bean
-	ProducerFactory<String, ProductCreatedEvent> producerFactory() {
+	ProducerFactory<String, com.appsdeveloperblog.ws.core.ProductCreatedEvent> producerFactory() {
 		return new DefaultKafkaProducerFactory<>(producerConfigs());
 	}
 	
 	@Bean
-	KafkaTemplate<String, ProductCreatedEvent> kafkaTemplate() {
+	KafkaTemplate<String, com.appsdeveloperblog.ws.core.ProductCreatedEvent> kafkaTemplate() {
 		return new KafkaTemplate<String, ProductCreatedEvent>(producerFactory());
 	}
 
